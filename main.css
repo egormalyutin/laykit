@@ -1,0 +1,15 @@
+body {
+	font-family: Noto Sans;
+}
+
+.ca {
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.ca div {
+	background: #03A9F4;
+	color: white;
+	padding: 5px;
+	text-align: center;
+}
