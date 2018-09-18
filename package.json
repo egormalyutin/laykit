@@ -2,7 +2,7 @@
   "name": "laykit",
   "version": "1.0.0",
   "description": "Simple lightweight markup library.",
-  "main": "index.js",
+  "main": "laykit.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
